@@ -2,5 +2,5 @@
 
 Intron Loss is phenomenon 
 
-<img src="https://github.com/imhara/IntronLoss/blob/main/intronloss_250207.pdf" width="1500">
+[intronloss_250207.pdf](https://github.com/user-attachments/files/18699044/intronloss_250207.pdf)
 
