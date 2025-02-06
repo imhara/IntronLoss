@@ -2,4 +2,4 @@
 
 Intron Loss is phenomenon 
 
-![이미지 설명](https://raw.githubusercontent.com/your-username/your-repo/main/images/your_image.png)
+![이미지 설명](https://github.com/imhara/IntronLoss/blob/main/intronloss_250207.pdf)
