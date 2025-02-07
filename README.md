@@ -1,11 +1,11 @@
 # IntronLoss
 
-## 1. Intron Loss 
+**## 1. Intron Loss 
 Intron loss refers to the phenomenon where introns, the non-coding regions within genes, are removed from the genome. It is a significant process in genome evolution and has been observed across various genes and species. 
 	- Evolutionary perspective: Intron loss contributes to genome size reduction and the simplification of the RNA splicing process, 	playing a crucial role in adaptation and evolutionary processes.
 	- Functional impact: Intron loss can influence gene expression, splicing accuracy, and gene regulation. In pathological conditions such as cancer, it may lead to significant functional changes.
 	- Relevance in  cancer research : intron loss observed in certain cancers may provide critical clues about oncogenic pathways and tumor progression .
-
+**
 ## 2. Key mechanisms 
 Intron loss can occur through various mechanisms : 
 
