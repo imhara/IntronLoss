@@ -15,3 +15,4 @@ Intron loss can occur through various mechanisms :
 <img src="https://github.com/user-attachments/assets/8c0403c9-f027-436d-a1b0-fc5a3140bc0e" alt="Image" height = "1000" width="1500">
 
 ## 4. Development of intron loss pipeline 
+<img src="https://github.com/user-attachments/assets/4b89d2dc-7803-471c-b878-7aae26b9a1b0" alt="Image" height = "1000" width="1500">
