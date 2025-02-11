@@ -19,6 +19,3 @@ Intron loss can occur through various mechanisms :
 
 ## 3. Identification of intron loss in NGS
 <img src="https://github.com/user-attachments/assets/8c0403c9-f027-436d-a1b0-fc5a3140bc0e" alt="Image" height = "1000" width="1500">
-
-## 4. Development of intron loss pipeline 
-<img src="https://github.com/user-attachments/assets/3617aeda-72e3-409f-949b-144d2075ae7c" alt="Image" height = "1000" width="1500">
